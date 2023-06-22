@@ -45,7 +45,7 @@ Conecte os pinos do display de sete segmentos aos pinos digitais do Arduino, con
 |      Botão Stop| 1                   |
 |      Botão Modo| 4                   |
 
-![Esquemático do Relógio](docs/relogioesq.png)
+![Esquemático do Relógio](/relogioesq.png)
 
 ## Configuração do software
 1. [Instale a IDE do Arduino através do site oficial](https://www.arduino.cc/en/software) e abra o software em seu computador.
