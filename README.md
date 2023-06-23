@@ -5,8 +5,7 @@ O projeto ABP (Aprendizagem Baseada em Projetos) consiste em um projeto digital 
 Este é um programa de relógio desenvolvido para o Arduino. Ele permite exibir as horas e minutos em um display de LED de sete segmentos, definir um alarme para tocar a partir do buzzer e alterar o horario de forma manual mostrado no display. O programa é escrito em linguagem C++ e usa as bibliotecas padrão do Arduino.
 
 ## Componentes necessários
-* 1 Arduino Uno 
-* Cabo USB
+* 1 Arduino Uno
 * 1 Placa de ensaio
 * 1 Display de LED de sete segmentos com quatro dígitos
 * 6 Resistores de 330 ohms 
@@ -14,6 +13,7 @@ Este é um programa de relógio desenvolvido para o Arduino. Ele permite exibir 
 * 1 Buzzer
 * 1 Potenciômetro 
 * 2 Leds
+* Cabo USB
 * Diversos jumpers para conexões
 
 ## Configuração do hardware
