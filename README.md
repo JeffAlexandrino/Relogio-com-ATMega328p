@@ -39,12 +39,12 @@ Conecte os pinos do display de sete segmentos aos pinos digitais do Arduino, con
 |Componentes     |	Pino do Arduino    |
 |----------------|-------------------- |
 |      Led Alarme| 6                   |
-|      Led Ajuste| 7	               |
-|   Potenciômetro| 5	               |
-|          Buzzer| 0	               |	
+|      Led Ajuste| 7	                 |
+|   Potenciômetro| 5	                 |
+|          Buzzer| 0	                 |	
+|    Botão Estado| 1                   |
 |       Botão Inc| 2                   |
 |       Botão Dec| 3                   |
-|        Button 1| 1                   |
 |      Botão Modo| 4                   |
 
 ![Esquemático do Relógio](/relogioesq.png)
