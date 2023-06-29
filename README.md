@@ -1,6 +1,6 @@
 # ABP: Relógio Digital
 
-![Logo](/Relogio-com-ATMega328p-main/logos_satc_enc.png)
+![Logo](logos_satc_enc.png)
 
 O projeto ABP (Aprendizagem Baseada em Projetos) consiste em um projeto digital desenvolvido para a disciplina de Sistemas Embarcados. Ele tem como objetivo explorar os conceitos e práticas relacionados à programação de microcontroladores utilizando o ATmega328 e a plataforma Arduino.
 
