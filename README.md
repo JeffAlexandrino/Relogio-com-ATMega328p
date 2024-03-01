@@ -74,6 +74,6 @@ Aperte novamente no botão Modo para desligar o LED.
 
 ## Autores
 - [Jefferson Barzan Alexandrino](https://github.com/JeffAlexandrino)
-- [João Augusto da Silva Borges](https://github.com/autor2)
+- [João Augusto da Silva Borges](https://github.com/joaoaugustosb)
 - [João Paulo Nunes Martins](https://github.com/joaopaulomts)
 - [Vitor Koch Wessler](https://github.com/VitorKW)
