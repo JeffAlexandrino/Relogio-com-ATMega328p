@@ -16,7 +16,7 @@ Este é um programa de relógio desenvolvido para o Arduino. Ele permite exibir 
 * 1 Potenciômetro 
 * 2 Leds
 * Cabo USB
-* Diversos jumpers para conexões
+* Jumpers para conexões
 
 ## Configuração do hardware
 Conecte os pinos do display de sete segmentos aos pinos digitais do Arduino, conforme a tabela abaixo:
